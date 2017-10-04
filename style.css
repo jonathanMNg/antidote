@@ -1,0 +1,11 @@
+.ui.toparea {
+  padding-top: 50px;
+}
+.ui.topmenu {
+  border: none;
+  box-shadow: none;
+}
+.ui.borderless {
+  border: none;
+  box-shadow: none;
+}
